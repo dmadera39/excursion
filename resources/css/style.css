@@ -14,3 +14,15 @@ body {
     font-size: 16px;
     color: aquamarine;
 }
+
+.middle {
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+}
+
+.middle--2 {
+    font-size: 21px;
+    color: gray;
+    font-weight: normal;
+}
