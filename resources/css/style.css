@@ -26,3 +26,9 @@ h2 {
     color: gray;
     font-weight: normal;
 }
+
+.footer--copyright {
+    color: gray;
+    font-size: 21px;
+    text-align: right;
+}
